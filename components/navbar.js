@@ -82,25 +82,38 @@ class MyNavbar extends HTMLElement {
     <div class="div-block-7">
       <div class="div-block-10">
         <div><img src="images/Edoardo.svg" loading="lazy" width="150" height="Auto" alt="" class="image-9">
-          <div class="paragraph-2 nero"><span class="evidenziato1">eddy.ceriani@gmail.com</span></div>
+          <div class="paragraph-2 nero"><span class="evidenziato1"><a href="mailto:eddy.ceriani@gmail.com">eddy.ceriani@gmail.com</a></span></div>
           <div class="paragraph-2 nero"><span class="evidenziato1">Now based in Milano.</span></div>
-          <div class="paragraph-2 nero padding"><span class="evidenziato1">Visual and communication designer</span></div>
+          <div class="paragraph-2 nero padding"><span class="evidenziato1">Graphic Design and Art Direction</span></div>
           <div class="paragraph-2 nero italic"><span class="evidenziato1">Work expreriences</span></div>
-          <div class="paragraph-2 nero padding"><span class="evidenziato1">2025-ongoing: Communication designer, Habits srl. Prodcut design studio <br> February 2025: Workshop teaching assistant in editorial design. Politecnico di Milano.<br>2024-2025: Fanzine art direction. VerySeri Lab<br>2023-25: Designer freelance.<br>Milano University District brand identity.<br>Ca’Boschi winery website art direction.<br>Campo dei Fiori Gin brand identity and bottle label.</span></div>
+          <div class="paragraph-2 nero padding"><span class="evidenziato1">
+            2025-26: Visual designer, Habits srl. Insustrial design studio 
+            <br>2025/26: Workshop teaching assistant in editorial design. Politecnico di Milano.
+            <br>2024-25: Internship. Handprinted fanzine art direction. VerySeri Lab
+            <br>2023-25: Digital and web designer freelance.
+            <br><strong style="color: white;">2023-25:</strong>↳ <a class="link1" href="milano-university-district.html">Milano University District</a> brand identity.
+            <br><strong style="color: white;">2023-25:</strong>↳ <a class="link1" href="cabsoschi.html">Ca’Boschi</a> winery website art direction.
+            <br><strong style="color: white;">2023-25:</strong>↳ <a class="link1" href="campo-dei-fiori-gin.html">Campo dei Fiori Gin</a> brand identity and bottle label.</span></div>
           <div class="paragraph-2 nero italic"><span class="evidenziato1">Exhibition</span></div>
-          <div class="paragraph-2 nero padding"><span class="evidenziato1">2023: Belonging/Not belonging  Indie magazine for social change<br>Referto Magazine,  La Stecca 3 (Milano).<br>2022: DesignXDesigner, Politecnico Design Student Exibition,<br>SourData (bachelor thesis project), Milano Design Week Fuorisalone.</span></div>
+          <div class="paragraph-2 nero padding"><span class="evidenziato1">
+            2023: Belonging/Not belonging Indie magazine for social change<br><a class="link1" href="referto-magazine.html">Referto Magazine,</a> La Stecca 3 (Milano).
+            <br>2022: DesignXDesigner, Politecnico Design Student Exibition,<br><a class="link1" href="sourdata.html">SourData</a> (bachelor thesis project), Milano Design Week Fuorisalone.</span></div>
           <div class="paragraph-2 nero italic"><span class="evidenziato1">Education</span></div>
-          <div class="paragraph-2 nero padding"><span class="evidenziato1">2019-2025: Master degree (110/110) and Bachelor degree (110/110) in Comunication Design at Politecnico di Milano. <br>2024: Erasmus experience, Politecnico di Leiria, Portugal.<br>2019: Scientific high school degree at Liceo Scientifico “G.B. Grassi”.</span></div>
+          <div class="paragraph-2 nero padding"><span class="evidenziato1">2019-2025: Master degree (110/110) and Bachelor degree (110/110) in Comunication Design at Politecnico di Milano.<br>2024: Erasmus experience, Politecnico di Leiria, Portugal.<br>2019: Scientific high school degree at Liceo Scientifico “G.B. Grassi”.</span></div>
         </div>
-        <div class="paragraph-2 nero fine-colonna"><span class="evidenziato1">Last website update: December 2025</span></div>
+        <div class="paragraph-2 nero fine-colonna"><span class="evidenziato1">Last website update: February 2025</span></div>
       </div>
       <div class="div-block-11">
         <div>
           <div class="paragraph-2 nero padding"><span class="evidenziato1">Multidisciplinary designer with a focus on visual storytelling. I am looking for a stimulating environment where I can contribute to meaningful projects while learning from mentors.</span></div>
           <div class="paragraph-2 nero italic"><span class="evidenziato1">Languages</span></div>
-          <div class="paragraph-2 nero padding"><span class="evidenziato1">Italian mothertongue<br>English fluent (TOEIC level C1)<br>Portuguese advanced</span></div>
+          <div class="paragraph-2 nero padding"><span class="evidenziato1">Italian: mothertongue<br>English: fluent (TOEIC level C1)<br>Portuguese: advanced</span></div>
           <div class="paragraph-2 nero italic"><span class="evidenziato1">Skils</span></div>
-          <div class="paragraph-2 nero padding"><span class="evidenziato1">Ai tools: Weavy AI, Higgsfield , Nano Banana Pro, Kling o1...<br>Software: Indesign, Illustrator, Figma, Excel, PowerPoint, AfterEffects, Rive.app... <br>Website: VisualStudio ( Html, Css), Elementor Pro, Webflow <br>3D: Blender ( Modelling SubD, Cycles rendering...)</span></div>
+          <div class="paragraph-2 nero padding"><span class="evidenziato1">
+            Ai tools: Weavy AI, Higgsfield , Nano Banana Pro, Kling o1...
+            <br>Software: Indesign, Illustrator, Figma, Excel, PowerPoint, AfterEffects, Rive.app... 
+            <br>Website: Code (Html, Css), Wordpress, Elementor, Framer  Webflow, Vercel, Github...
+            <br>3D: Blender ( Modelling SubD, Cycles rendering...)</span></div>
           <div class="paragraph-2 nero italic"><span class="evidenziato1">Passions</span></div>
           <div class="paragraph-2 nero padding"><span class="evidenziato1">DIY / Woodwoork <br>Rock climbing <br>Hand printing techniques <br>Playing music</span></div>
           <div class="paragraph-2 nero italic"><span class="evidenziato1">Skills</span></div>

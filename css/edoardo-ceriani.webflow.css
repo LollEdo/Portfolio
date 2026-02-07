@@ -31,6 +31,9 @@ a {
   color: var(--not-pure-black);
   text-decoration: none;
 }
+.link1{
+  text-decoration: underline 2px black;
+}
 
 .text-block {
   color: var(--black);
